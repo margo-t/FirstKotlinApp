@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinnerChoice</string>
+    <string name="chinese">Chinese</string>
+    <string name="decide">Decide!</string>
+    <string name="add_new_food">add new food...</string>
+    <string name="add_food">Add Food</string>
+    <string name="todo">TODO</string>
+</resources>
